@@ -28,6 +28,8 @@ internal class Program
         {
             Console.WriteLine("Number is smaller");
         }
+
+        Donut.Run();
     }
 
     private static void Error(object text)
