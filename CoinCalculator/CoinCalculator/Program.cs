@@ -15,7 +15,6 @@
             var totalCoins = earthLengthMm / coinDiameterMm;
 
             Console.WriteLine("Coins: " + totalCoins);
-
         }
     }
 }
