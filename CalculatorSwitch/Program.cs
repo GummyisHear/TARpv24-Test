@@ -4,11 +4,6 @@
     {
         static void Main(string[] args)
         {
-
-            var med = FindMedianSortedArrays([1,3], [2]);
-            Console.WriteLine($"Median: {med}");
-            return;
-
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Insert first number and press enter:");
